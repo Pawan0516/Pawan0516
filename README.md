@@ -1,7 +1,8 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:123b5d,100:16a085&height=190&section=header&text=Pawan%20Parmar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Pawan Parmar profile banner" />
+  <h1>Hi, I'm Pawan Parmar 👋</h1>
+  <h3>AI & Data Science Student | Full-Stack Developer</h3>
 
   <p>
     <a href="https://github.com/Pawan0516"><img src="https://img.shields.io/badge/GitHub-Pawan0516-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
@@ -99,11 +100,12 @@
 ## 📈 GitHub at a Glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pawan0516&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan0516&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Pawan0516&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/Pawan0516?tab=repositories"><img src="https://img.shields.io/badge/View-Public_Repositories-2f80ed?style=for-the-badge&logo=github" alt="View public repositories"/></a>
+  <img src="https://img.shields.io/github/followers/Pawan0516?label=Followers&style=for-the-badge&logo=github&color=16a085" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/Pawan0516/Pawan01?label=Aniplex%20Stars&style=for-the-badge&logo=github&color=8250df" alt="Aniplex repository stars"/>
 </div>
+
+<p align="center">Explore my repositories to see what I'm building, learning and improving.</p>
 
 ---
 
@@ -117,7 +119,3 @@
 <p align="center">📧 <b>Email:</b> pawanermar123@gmail.com</p>
 <p align="center"><i>“Build with curiosity. Learn with consistency. Create with purpose.”</i></p>
 <p align="center">Thanks for stopping by! ⭐</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:123b5d,100:16a085&height=100&section=footer" width="100%" alt="Footer banner"/>
-</div>
