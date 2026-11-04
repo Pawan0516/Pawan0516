@@ -31,54 +31,59 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 Neon Arcade</h3>
-      <p>A browser-based mini arcade with reaction-speed, memory-match and aim-training games. Built using vanilla HTML, CSS and JavaScript.</p>
-      <p><a href="https://github.com/Pawan0516/a-neon-arcade-game-website"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a></p>
+      <p>A browser-based mini arcade with reaction-speed, memory-match and aim-training games. Built with vanilla HTML, CSS and JavaScript.</p>
+      <p><a href="https://github.com/Pawan0516/a-neon-arcade-game-website"><img src="https://img.shields.io/badge/▶_View_Source_Code-181717?style=for-the-badge&logo=github" alt="View Neon Arcade source code"/></a></p>
       <sub>HTML · CSS · JavaScript</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🎬 Aniplex — Anime UI</h3>
-      <p>An anime-streaming inspired frontend featuring a hero slider, category navigation and responsive visual sections.</p>
-      <p><a href="https://github.com/Pawan0516/Pawan01"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a></p>
+      <p>An anime-streaming inspired frontend with a hero slider, category navigation and visual sections.</p>
+      <p><a href="https://github.com/Pawan0516/Pawan01"><img src="https://img.shields.io/badge/▶_View_Source_Code-181717?style=for-the-badge&logo=github" alt="View Aniplex source code"/></a></p>
       <sub>HTML · CSS · JavaScript</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📊 EduAnalytics</h3>
-      <p>A Flask-based educational analytics demo with branch datasets, CSV upload, dataset APIs and downloads.</p>
-      <p><a href="https://github.com/Pawan0516/EduAnalytics-Flask"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a></p>
+      <p>A Flask-based educational analytics demo with branch datasets, CSV uploads, dataset APIs and downloads.</p>
+      <p><a href="https://github.com/Pawan0516/EduAnalytics-Flask"><img src="https://img.shields.io/badge/▶_View_Source_Code-181717?style=for-the-badge&logo=github" alt="View EduAnalytics source code"/></a></p>
       <sub>Python · Flask · CSV · REST API</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🎵 Advance Music Player</h3>
-      <p>A music-player project with a browser interface and a Flask/SQLite backend experiment for uploading and playing audio.</p>
-      <p><a href="https://github.com/Pawan0516/Advance_Music_Player"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a></p>
+      <p>A browser music-player interface plus a Flask/SQLite backend experiment for uploading and playing audio.</p>
+      <p><a href="https://github.com/Pawan0516/Advance_Music_Player"><img src="https://img.shields.io/badge/▶_View_Source_Code-181717?style=for-the-badge&logo=github" alt="View music player source code"/></a></p>
       <sub>HTML · CSS · JavaScript · Python · Flask · SQLite</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ Amazon Shopping App</h3>
-      <p>A React + Vite shopping-app project. Explore the repository for its current implementation and setup.</p>
-      <p><a href="https://github.com/Pawan0516/amazon-shopping-app"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a></p>
-      <sub>React · Vite · JavaScript</sub>
+      <h3>🌐 Personal Portfolio</h3>
+      <p>A published portfolio website presenting profile, skills, achievements and selected work.</p>
+      <p>
+        <a href="https://pawan0516.github.io/Pawan02/"><img src="https://img.shields.io/badge/↗_Open_Live_Portfolio-16A085?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open live portfolio"/></a>
+        <a href="https://github.com/Pawan0516/Pawan02"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Portfolio source code"/></a>
+      </p>
+      <sub>Portfolio · GitHub Pages</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Personal portfolio project. Open the repository to explore the source and current implementation.</p>
-      <p><a href="https://github.com/Pawan0516/pportfolio"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a></p>
-      <sub>Web Development</sub>
+      <h3>🛒 Amazon Shopping App</h3>
+      <p>A React + Vite shopping-app project. Open the repository to inspect the current implementation and setup.</p>
+      <p><a href="https://github.com/Pawan0516/amazon-shopping-app"><img src="https://img.shields.io/badge/▶_View_Source_Code-181717?style=for-the-badge&logo=github" alt="View shopping app source code"/></a></p>
+      <sub>React · Vite · JavaScript</sub>
     </td>
   </tr>
 </table>
 
-> **Note:** These buttons open the project repositories. I have not labeled them as live demos because a working public deployment URL could not be confirmed for each project.
+<p align="center"><sub>Live demo is provided only for the portfolio link above. Other buttons open the source repositories; they are not represented as hosted demos.</sub></p>
+
+---
 
 ## 🏆 Highlights
 
@@ -109,6 +114,7 @@
   <a href="https://www.linkedin.com/in/pawan-parmar-a3a8702a5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </div>
 
+<p align="center">📧 <b>Email:</b> pawanermar123@gmail.com</p>
 <p align="center"><i>“Build with curiosity. Learn with consistency. Create with purpose.”</i></p>
 <p align="center">Thanks for stopping by! ⭐</p>
 
